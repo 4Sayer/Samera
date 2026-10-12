@@ -1,0 +1,9 @@
+/build/
+/build-native/
+/build-*/
+/dist/
+*.user
+*.log
+.env
+.env.*
+*.part

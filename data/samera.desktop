@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Samera
+GenericName=Camera
+GenericName[es]=Cámara
+Comment=A lightweight camera for photos and videos
+Comment[es]=Una cámara ligera para fotos y vídeos
+Exec=samera
+Icon=samera
+Terminal=false
+Categories=AudioVideo;Video;
+Keywords=camera;webcam;photo;video;mirror;
+Keywords[es]=cámara;webcam;foto;vídeo;espejo;
+StartupNotify=true
+StartupWMClass=samera
